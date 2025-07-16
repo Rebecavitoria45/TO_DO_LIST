@@ -33,14 +33,14 @@ O projeto está dividido nas seguintes partes:
 
 ```bash
 javac common/*.java
-javac servidor/*.java
+javac server/*.java
 javac cliente/*.java
 ```
 
 2. Em outro terminal inicie o servidor:
 
 ```bash
-java servidor.TodoList
+java server.TodoList
 ```
 
 3. Em outro terminal inicie o cliente:
